@@ -1,0 +1,17 @@
+{
+    "name": "Corona Report",
+    "version": "1.0.0",
+    "description": "This is a extension to look up countries wise realtme Corona cases & deaths.",
+    "manifest_version": 3,
+    "author": "Srinivasan Venkatesan",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Corona Report"
+    },
+    "icons": {
+        "16": "icon16.png",
+        "32": "icon32.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
+}
